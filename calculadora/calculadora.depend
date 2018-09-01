@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535838870 source:/home/tomaszorzano/programacion/TPs/calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535838952 /home/tomaszorzano/programacion/TPs/calculadora/funciones.h
+
+1535838896 source:/home/tomaszorzano/programacion/TPs/calculadora/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
