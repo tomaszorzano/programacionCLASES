@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538951003 source:c:\users\tomas\desktop\peliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1538951003 c:\users\tomas\desktop\peliculas\funciones.h
+
+1538945494 source:c:\users\tomas\desktop\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"peliculas.h"
+
+1538944025 source:c:\users\tomas\desktop\peliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"peliculas.h"
+
+1538949717 c:\users\tomas\desktop\peliculas\peliculas.h
+
